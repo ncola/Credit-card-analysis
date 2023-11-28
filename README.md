@@ -7,3 +7,5 @@ The analysis includes the following steps:
 - Data cleaning and processing to prepare the dataset for analysis,
 - Exploratory data analysis to gain insights and better understand the dataset (in progress - uploaded),
 - Statistical analysis to further analyze and draw conclusions from the data (in progress).
+- Churn prediction using Machine Learing techniques
+    * Logistic Regression
